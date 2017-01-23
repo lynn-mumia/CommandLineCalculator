@@ -16,4 +16,9 @@ System.out.println("The sum is " + (num1 + num2));
   System.out.println(" ***********Simple calculator********");
 System.out.println("The difference is " + (num1 - num2));
    }
+   if(symbol.equals("multiply")){
+  System.out.println();
+  System.out.println(" ***********Simple calculator********");
+System.out.println("The product is " + (num1 * num2));
+   }
    }
